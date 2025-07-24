@@ -4,7 +4,7 @@ Welcome to **HopnStay**, a full-stack web application for exploring and booking 
 
 ---
 
-## 📋 Prerequisites
+## 📋 Prerequisiteshttps://github.com/swarit0089A
 
 Make sure the following are installed on your system before proceeding:
 
@@ -19,7 +19,7 @@ Make sure the following are installed on your system before proceeding:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/singhShashwat45/Stayquest.git
+git clone https://github.com/swarit0089A/Stayquest.git
 cd Stayquest
 ```
 
